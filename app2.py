@@ -97,7 +97,7 @@ def main():
     else:
         st.title("About this web app")
         st.markdown("#### In this web application we web scrappe the Parfoiç marketplace. A purse & clothing store")
-        st.image(open_image(r"C:\Users\Cash\Proyectos\082024\parfoiç web scrapping\parfoiç_image.png"))
+        st.image(open_image(r"parfoiç_image.png"))
         st.markdown("*We will have the option to download the file in three diferrent file types of format:  excel, csv or json*")
 
         
